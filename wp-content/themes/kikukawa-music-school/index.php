@@ -12,17 +12,10 @@
 			音楽を通して、生徒さんの人生がより豊かになるように、音楽が一生の友になるように精一杯お手伝いしていきます。<br>
 			現在千葉県船橋市と神奈川県茅ヶ崎市にてレッスンを行っており、
 			子どもから大人まで幅広い年代の方を対象に楽しくレッスンをしています。<br>
-			レッスンに興味がある方は是非お気軽に<a href="###">お問い合わせ</a>ください。
+			レッスンに興味がある方は是非お気軽に<a href="https://forms.gle/hYhretfVKwrViTqp9" target="_blank">お問い合わせ</a>ください。
 		</p>
 	</div>
-	<div class="info">
-		<div class="info_title">無料体験レッスン キャンペーン実施中</div>
-		<div class="info_text">体験レッスンが通常1,100円のところ<br class="sp">期間限定で無料にて行っております。<br>
-			お気軽にお申し込みください。（○月○日まで）</div>
-		<div class="info_button">
-			<a href="###" target="_blank">無料体験のお申し込み</a>
-		</div>
-	</div>
+	<?php get_sidebar(); ?>
 </div>
 
 <div class="main_wrap">
@@ -289,7 +282,7 @@
 					</div>
 					<div class="availability__text">
 						レッスン時間については
-						<a href="###" target="_blank">お問い合わせ</a>
+						<a href="https://forms.gle/hYhretfVKwrViTqp9" target="_blank">お問い合わせ</a>
 						にてお気軽にご相談ください。
 					</div>
 				</div>

@@ -307,7 +307,7 @@
 
 
         <br>
-        <p>教室についてのご質問はお気軽に<a href="###" target="_blank">お問い合わせ</a>ください。</p>
+        <p>教室についてのご質問はお気軽に<a href="https://forms.gle/hYhretfVKwrViTqp9" target="_blank">お問い合わせ</a>ください。</p>
 
 			</div><!-- post__content -->
 		</div><!-- post__body -->
