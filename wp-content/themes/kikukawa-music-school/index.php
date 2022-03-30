@@ -36,7 +36,7 @@
 			<div class="section_content">
 				<div class="section_text">
 					大手教室のカリキュラムとは異なり、生徒の皆さんとじっくりお話をしながら一人ひとりにあった教材をご提案いたします。<br>
-					将来どんな曲が弾けるようになりたいか、どうやったら弾けるようになるかなど、お気軽にご相談ください。
+					将来どんな曲が弾けるようになりたいか、どうやったら弾けるようになるかなど、レッスンにてご相談ください。
 				</div>
 				<div class="content_list">
 
@@ -100,8 +100,7 @@
 						<div class="content_body">
 							<div class="content_title">船橋・茅ヶ崎の２校</div>
 							<div class="content_text">
-								大手教室のカリキュラムとは異なり、生徒の皆さんとじっくりお話をしながら一人ひとりにあった教材をご提案いたします。<br>
-								将来どんな曲が弾けるようになりたいか、どうやったら弾けるようになるかなど、レッスンにてご相談ください。
+								菊川音楽教室では千葉県船橋市、　神奈川県茅ヶ崎市に２校で運営しております。<br>
 							</div>
 						</div>
 					</div>
@@ -210,12 +209,12 @@
 								<div class="course-card__price">月額 8,800円<span class="course-card__tax">(税込)</span></div>
 							</div>
 							<div class="course-card__item">
-								<div class="course-card__label">幼児コース</div>
-								<div class="course-card__price">月額 8,800円<span class="course-card__tax">(税込)</span></div>
+								<div class="course-card__label">小学生コース</div>
+								<div class="course-card__price">月額 9,900円<span class="course-card__tax">(税込)</span></div>
 							</div>
 							<div class="course-card__item">
-								<div class="course-card__label">幼児コース</div>
-								<div class="course-card__price">月額 8,800円<span class="course-card__tax">(税込)</span></div>
+								<div class="course-card__label">中学生コース</div>
+								<div class="course-card__price">月額 11,000円<span class="course-card__tax">(税込)</span></div>
 							</div>
 						</div>
 					</div>

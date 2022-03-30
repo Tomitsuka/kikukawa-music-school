@@ -84,21 +84,21 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
 
-  function heroFade(){
-    hero_logo.classList.add('on');
-    hero_image.classList.add('on');
-    menuWrap.classList.add('fadein');
-    scroll_info.classList.add('fadein');
-  }
+  // function heroFade(){
+  //   hero_logo.classList.add('on');
+  //   hero_image.classList.add('on');
+  //   menuWrap.classList.add('fadein');
+  //   scroll_info.classList.add('fadein');
+  // }
 
-  var images = document.getElementsByTagName('img');
-  for (var i = 0; i < images.length; i++) {
-    var img = new Image();
-    img.onload = function() {
-      heroFade();
-    }
-    img.src = images[i].src;
-  }
+  // var images = document.getElementsByTagName('img');
+  // for (var i = 0; i < images.length; i++) {
+  //   var img = new Image();
+  //   img.onload = function() {
+  //     heroFade();
+  //   }
+  //   img.src = images[i].src;
+  // }
 
   var swiper = new Swiper(".mySwiper", {
     spaceBetween: 10,

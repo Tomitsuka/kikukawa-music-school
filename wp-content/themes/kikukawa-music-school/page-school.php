@@ -8,7 +8,7 @@
 			</div>
 			<div class="post__content">
 				<h2 class="page-post__headline">教室について</h2>
-				<p>菊川音楽教室では千葉県船橋市、　神奈川県茅ヶ崎市に２校で運営しております。</p>
+				<p>菊川音楽教室では千葉県船橋市、神奈川県茅ヶ崎市に２校で運営しております。</p>
 
 				<h3>津田沼校</h3>
 				<div class="swiper mySwiper2">
@@ -26,6 +26,11 @@
 						<div class="slider_item swiper-slide">
 							<div class="slider_img">
 								<img src="<?php echo get_template_directory_uri(); ?>/images/school_tsudanuma3.jpg" alt="津田沼校">
+							</div>
+						</div>
+						<div class="slider_item swiper-slide">
+							<div class="slider_img">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/school_tsudanuma4.jpg" alt="津田沼校">
 							</div>
 						</div>
 					</div>
@@ -47,6 +52,11 @@
 						<div class="slider_item swiper-slide">
 							<div class="slider_img">
 								<img src="<?php echo get_template_directory_uri(); ?>/images/school_tsudanuma3.jpg" alt="津田沼校">
+							</div>
+						</div>
+						<div class="slider_item swiper-slide">
+							<div class="slider_img">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/school_tsudanuma4.jpg" alt="津田沼校">
 							</div>
 						</div>
 					</div>
@@ -274,16 +284,6 @@
 				<h2 class="page-post__headline">所在地</h2>
 				<div class="address__box">
 					<div class="address__item">
-						<div class="address__title">茅ヶ崎校</div>
-						<p>
-							〒253-0072 神奈川県茅ヶ崎市今宿785-8<br>
-							JR「茅ヶ崎駅」よりバス8分<br>
-							JR「平塚駅」よりバス9分<br>
-							神奈川中央交通「今宿」より徒歩8分
-						</p>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3254.7509892035464!2d139.37733091602541!3d35.33700455637897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601853f85ca175bf%3A0x406b6d82bec48a81!2z6I-K5bed6Z-z5qW95pWZ5a6kIOiMheODtuW0juagoQ!5e0!3m2!1sja!2sjp!4v1648563858178!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-					</div>
-					<div class="address__item">
 						<div class="address__title">津田沼校</div>
 						<p>
 							〒274-0825 千葉県船橋市前原西1-23-7-104<br>
@@ -292,6 +292,16 @@
 							京成バスシステム　東船橋駅線［船41］ 「成田街道入口」より徒歩1分
 						</p>
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.254442995603!2d140.01197751603016!3d35.6953557368031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6022801e55555555%3A0x13d0ad790c00ce78!2z6I-K5bed6Z-z5qW95pWZ5a6kIOa0peeUsOayvOagoQ!5e0!3m2!1sja!2sjp!4v1648563842921!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					</div>
+					<div class="address__item">
+						<div class="address__title">茅ヶ崎校</div>
+						<p>
+							〒253-0072 神奈川県茅ヶ崎市今宿785-8<br>
+							JR「茅ヶ崎駅」よりバス8分<br>
+							JR「平塚駅」よりバス9分<br>
+							神奈川中央交通「今宿」より徒歩8分
+						</p>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3254.7509892035464!2d139.37733091602541!3d35.33700455637897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601853f85ca175bf%3A0x406b6d82bec48a81!2z6I-K5bed6Z-z5qW95pWZ5a6kIOiMheODtuW0juagoQ!5e0!3m2!1sja!2sjp!4v1648563858178!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 				</div>
 

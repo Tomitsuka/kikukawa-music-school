@@ -8,7 +8,7 @@
 			</div>
 			<div class="post__content">
 				<p>
-					菊川音楽教室では初めてピアノに触れるお子様から本格的なレッスンを受けたい経験者様まで様々なお客様にご対応するレッスンコースをご用意しております。
+					菊川音楽教室では、初めてピアノに触れるお子様から本格的なレッスンを受けたい経験者様まで、様々なお客様にご対応できるレッスンコースをご用意しております。
 				</p>
 				<h2 class="page-post__headline">お子様向けコース</h2>
 				<p>当教室は何才からでもレッスン可能です。<br>
@@ -16,9 +16,11 @@
 				</p>
         <img src="https://kikukawa-piano.com/wp-content/uploads/2022/03/20220311-kikukawapiano-021.jpg" alt="">
 				<p>
-        また、当教室には男の子も多く通われており、男の子のレッスンも大歓迎です♪<br>
-        「元気すぎて集中できるか心配…」という方も心配ありません。
-        「集中力」「努力をすること」「課題をこなすための計画性」「本番での度胸」などをピアノを通して身につけていきましょう。
+          また、当教室には男の子も多く通われており、男の子のレッスンも大歓迎です♪<br>
+          「元気すぎて集中できるか心配…」という方も心配ありません。
+        </p>
+        <p>
+          「集中力」「努力をすること」「課題をこなすための計画性」「本番での度胸」などをピアノを通して身につけていきましょう。
 				</p>
         <div class="page-course">
           <div class="page-course__title">
@@ -38,8 +40,10 @@
 
 				<h2 class="page-post__headline">大人向けコース</h2>
         <p>自分の好きな曲を弾けるよう、それぞれのレベルに合わせたレッスンをしていきます。</p>
-        <p>当教室は朝10:00から夜21:00までとレッスン時間も幅広く、お仕事や子育てに忙しい方にも柔軟に対応が可能です。</p>
-        <p>忙しい中でも、どのようにすれば効率よく練習できるかなどそれぞれのライフワークに合わせた練習方法を提案していきます。</p>
+        <p>
+          当教室は朝10:00から夜21:00までとレッスン時間も幅広く、お仕事や子育てに忙しい方にも柔軟に対応が可能です。<br>
+          忙しい中でも、どのようにすれば効率よく練習できるかなどそれぞれのライフワークに合わせた練習方法を提案していきます。
+        </p>
         <img src="https://kikukawa-piano.com/wp-content/uploads/2022/03/20220311-kikukawapiano-047.jpg" alt="">
 
         <p>「ピアノをやってみたいけど自信がない…」という方にも安心していただけるよう【お試しコース】もございます。初心者の方もご安心ください。</p>
@@ -52,21 +56,19 @@
             <div class="page-course__item page-course__label">コース名</div>
             <div class="page-course__item page-course__label">料金</div>
             <div class="page-course__item page-course__label">内容</div>
-            <div class="page-course__item">幼児コース</div>
+            <div class="page-course__item">お試しコース</div>
             <div class="page-course__item">¥9,900</div>
             <div class="page-course__item page-course__text">入会から6ヶ月間限定の<br>お試し価格でのレッスン</div>
-            <div class="page-course__item">小学生コース</div>
+            <div class="page-course__item">デイコース</div>
             <div class="page-course__item">¥11,000</div>
             <div class="page-course__item page-course__text">10:00〜14:00の<br>時間帯でレッスン受講</div>
-            <div class="page-course__item">中学生コース</div>
+            <div class="page-course__item">レギュラーコース</div>
             <div class="page-course__item">¥13,200</div>
             <div class="page-course__item page-course__text">14:00〜21:00の<br>時間帯でレッスン受講</div>
           </div>
         </div>
 
 				<h2 class="page-post__headline">マスターコース</h2>
-        <p>より専門的に学びたい方向けのコースです。年齢は問いません。</p>
-        <p>コンクールへ挑戦したい方はもちろん音楽高校・音楽大学受験などにも対応いたします。（音高・音大受験をしない方でも受講可）</p>
 				<div class="swiper mySwiper6">
 					<div class="swiper-wrapper">
 						<div class="slider_item swiper-slide">
@@ -76,9 +78,7 @@
 						</div>
 					</div>
 				</div>
-
-        <p>レッスンに慣れてくると、30分のレッスンというのは本当にあっという間です。</p>
-        <p>じっくりレッスンを受けたい方にも、こちらのコースをお勧めしています。本格的に学びたい方は是非ご検討ください。</p>
+        <p>より専門的に学びたい方向けのコースです。年齢は問いません。</p>
         <div class="page-course">
           <div class="page-course__title">
             １レッスン 30分 / 年間44回<span>(月3〜４回 レッスン)</span>
@@ -92,6 +92,12 @@
             <div class="page-course__item page-course__text">楽典・ソルフェージュを含む上級者向けコース</div>
           </div>
         </div>
+        <p>
+          コンクールへ挑戦したい方はもちろん、音楽高校・音楽大学受験などにも対応いたします。（音高・音大受験をしない方でも受講可）<br>
+          受験に必要な、楽典やソルフェージュなどを学びたい方は、こちらのコースをお選びください。
+        </p>
+        <p>レッスンに慣れてくると、30分のレッスンというのは本当にあっという間です。じっくりレッスンを受けたい方にも、こちらのコースをお勧めしています。</p>
+        <br>
         <br>
         <p>レッスンについてのご相談はお気軽に<a href="###" target="_blank">お問い合わせ</a>ください。</p>
 			</div>
