@@ -407,6 +407,7 @@ a {
     z-index: 9999;
     top: 0;
     width: 100%;
+    background: #fff;
 }
 
 .header_wrap {
@@ -415,7 +416,6 @@ a {
     min-height: 75px;
     width: 100%;
     @include anim(0.4s);
-    // background: #fff;
 }
 
 .header_logo {
@@ -1196,7 +1196,7 @@ a {
             font-size: 1.4rem;
         }
         .price {
-            font-size: 2.4rem;
+            font-size: 2.8rem;
         }
     }
 }
@@ -1296,6 +1296,9 @@ a {
     }
     .item {
         flex: calc(50% - 16px) 0 0;
+        padding: 12px;
+        box-shadow: 0 0 0 1px $line-color;
+        border-radius: 6px;
     }
     .item+.item {
         margin: 16px 0 0 0;
@@ -1319,7 +1322,7 @@ a {
         margin: 0 0 0 16px;
     }
     .item__title {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
     .item__date {
         margin: 8px 0 0;
@@ -1501,7 +1504,7 @@ a {
 .footer {
     margin: 16px 0 0;
     padding: 24px 0 16px;
-    background-color: #070f10;
+    background-color: $main-color;
 }
 
 .footer__wrap {
@@ -1523,17 +1526,45 @@ a {
 }
 
 .footer-info__item {
-    @include font12($text-color_white,
-    1);
+    @include font12($text-color_white,1);
 }
 
 .footer-info__item+.footer-info__item {
-    margin: 12px 0 0;
+    margin: 20px 0 0;
 }
 
-.footer-info__text {
+.footer-info__label{
+    @include font14($text-color_white,1);
+    margin: 0 0 8px 0;
+}
+
+.footer-info__text{
+    @include font12($text-color_white,1);
+}
+
+.footer-info__address{
+    .footer-info__text{
+        line-height: 1.5;
+        .address__item + .address__item{
+            margin: 8px 0 0;
+        }
+    }
+}
+.footer-info__notes {
     margin: 12px 0 0;
     @include font12($text-color_white);
+}
+
+.footer-info__contact{
+    display: inline-block;
+    margin: 24px 0 0;
+    border-radius: 6px;
+    box-shadow: 0 0 0 1px #fff;
+    a{
+        display: block;
+        padding: 16px 18px;
+        @include font12($text-color_white,1);
+    }
 }
 
 .footer_copyright {
@@ -1549,7 +1580,25 @@ a {
         padding: 48px 0 16px;
     }
     .footer-info__item {
+        display: flex;
         font-size: 1.4rem;
+    }
+    .footer-info__item+.footer-info__item {
+        margin: 16px 0 0;
+    }
+    .footer-info__label{
+        margin: 0 8px 8px 0;
+    }
+    .footer-info__text{
+        font-size: 1.4rem;
+    }
+    .footer-info__address{
+        .footer-info__text{
+            line-height: 1;
+            .address__item + .address__item{
+                margin: 8px 0 0;
+            }
+        }
     }
 }
 
