@@ -77,7 +77,7 @@
 				</div>
 			</div>
 			<div class="section_more arrow">
-				<a class="more_button" href="https://kikukawa-piano.com/lesson/">レッスンについて詳細</a>
+				<a class="more_button" href="<?php echo esc_url(home_url('/')); ?>/lesson/">レッスンについての詳細</a>
 			</div>
 		</section>
 
@@ -99,7 +99,7 @@
 					</div>
 
 					<div class="content_item">
-						<div class="content_imege"><img src="<?php echo get_template_directory_uri(); ?>/images/school_image2.jpg" alt=""></div>
+						<div class="content_imege"><img src="<?php echo get_template_directory_uri(); ?>/images/recital_8.jpg" alt=""></div>
 						<div class="content_body">
 							<div class="content_title">年に１度の発表会</div>
 							<div class="content_text">
@@ -113,7 +113,7 @@
 				</div>
 			</div>
 			<div class="section_more arrow">
-				<a class="more_button" href="https://kikukawa-piano.com/school/">教室についての詳細</a>
+				<a class="more_button" href="<?php echo esc_url(home_url('/')); ?>/school/">教室についての詳細</a>
 			</div>
 		</section>
 
@@ -134,7 +134,7 @@
 					if ($wp_query->have_posts()) : while ($wp_query->have_posts()) : $wp_query->the_post();
 					?>
 							<div class="item">
-								<div class="item__imege"><a href="<?php the_permalink(); ?>"><img src="https://lh3.googleusercontent.com/pw/AM-JKLXQrGN3qt-CrN8MkLBgtxPc6qtWtRpQcn8Uv3OARqk7FCpkkUS4rhY7WnjFO9B2DgS6GSvwv5BMHb6rhFKpaB6M-mbJ4qgfUs6YaDRQHh-isje-sSPTWYeouqcmOJT4zUanjcJuJqIKJg77zUvv_woeSA=w817-h465-no?authuser=0" alt=""></a></div>
+								<div class="item__imege"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(); ?></a></div>
 								<div class="item__body">
 									<div class="item__title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
 									<div class="item__date"><?php echo get_the_date('Y.m.d'); ?></div>
@@ -168,7 +168,7 @@
 					if ($wp_query->have_posts()) : while ($wp_query->have_posts()) : $wp_query->the_post();
 					?>
 							<div class="item">
-								<div class="item__imege"><a href="<?php the_permalink(); ?>"><img src="https://lh3.googleusercontent.com/pw/AM-JKLXQrGN3qt-CrN8MkLBgtxPc6qtWtRpQcn8Uv3OARqk7FCpkkUS4rhY7WnjFO9B2DgS6GSvwv5BMHb6rhFKpaB6M-mbJ4qgfUs6YaDRQHh-isje-sSPTWYeouqcmOJT4zUanjcJuJqIKJg77zUvv_woeSA=w817-h465-no?authuser=0" alt=""></a></div>
+								<div class="item__imege"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(); ?></a></div>
 								<div class="item__body">
 									<div class="item__title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
 									<div class="item__date"><?php echo get_the_date('Y.m.d'); ?></div>
@@ -269,16 +269,16 @@
 					</div>
 					<div class="availability__title">津田沼校</div>
 					<div class="availability__list">
-						<div class="availability__item">金曜 14 : 00 〜 16 : 00</div>
-						<div class="availability__item">金曜 16 : 30 〜 19 : 00</div>
-						<div class="availability__item">日曜 14 : 15 〜 15 : 15</div>
+						<div class="availability__item">金曜 14:00 〜 16:00</div>
+						<div class="availability__item">金曜 16:30 〜 19:00</div>
+						<div class="availability__item">日曜 14:15 〜 15:15</div>
 					</div>
 					<div class="availability__title">茅ヶ崎校</div>
 					<div class="availability__list">
-						<div class="availability__item">水曜日 10 : 00 〜 15 : 30</div>
-						<div class="availability__item">水曜日 16 : 00 〜 20 : 30</div>
-						<div class="availability__item">金曜日 15 : 30 〜 16 : 00</div>
-						<div class="availability__item">金曜日 17 : 30 〜 20 : 30</div>
+						<div class="availability__item">水曜 10:00 〜 15:30</div>
+						<div class="availability__item">水曜 16:00 〜 20:30</div>
+						<div class="availability__item">金曜 15:30 〜 16:00</div>
+						<div class="availability__item">金曜 17:30 〜 20:30</div>
 					</div>
 					<div class="availability__text">
 						レッスン時間については
