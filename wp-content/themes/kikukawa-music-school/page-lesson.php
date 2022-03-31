@@ -73,7 +73,7 @@
 					<div class="swiper-wrapper">
 						<div class="slider_item swiper-slide">
 							<div class="slider_img">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/recital_4.jpg" alt="">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/lesson_image3.jpg" alt="">
 							</div>
 						</div>
 					</div>
