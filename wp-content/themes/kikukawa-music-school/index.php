@@ -89,7 +89,7 @@
 				<div class="content_list">
 
 					<div class="content_item">
-						<div class="content_imege"><img src="<?php echo get_template_directory_uri(); ?>/images/school_image1.jpg" alt=""></div>
+						<div class="content_imege"><img src="<?php echo get_template_directory_uri(); ?>/images/school_chigasaki1.jpg" alt=""></div>
 						<div class="content_body">
 							<div class="content_title">船橋・茅ヶ崎の２校</div>
 							<div class="content_text">
@@ -271,13 +271,13 @@
 					<div class="availability__list">
 						<div class="availability__item">金曜 14:00 〜 16:00</div>
 						<div class="availability__item">金曜 16:30 〜 19:00</div>
-						<div class="availability__item">日曜 14:15 〜 15:15</div>
+						<div class="availability__item">日曜 14:15 〜 14:45</div>
 					</div>
 					<div class="availability__title">茅ヶ崎校</div>
 					<div class="availability__list">
-						<div class="availability__item">水曜 10:00 〜 15:30</div>
+						<div class="availability__item">水曜 15:00 〜 15:30</div>
 						<div class="availability__item">水曜 16:00 〜 20:30</div>
-						<div class="availability__item">金曜 15:30 〜 16:00</div>
+						<div class="availability__item">金曜 15:30 〜 17:00</div>
 						<div class="availability__item">金曜 17:30 〜 20:30</div>
 					</div>
 					<div class="availability__text">
