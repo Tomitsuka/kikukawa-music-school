@@ -1461,8 +1461,8 @@ a {
 }
 
 .availability__title{
-    margin: 16px 0 0;
-    @include font14($text-color);
+    margin: 24px 0 0;
+    @include font16($text-color);
     font-weight: 500;
 }
 
@@ -1486,6 +1486,10 @@ a {
 @media (min-width: $mediaquery) {
     .availability__text {
         font-size: 16px;
+    }
+    .availability__title {
+        margin: 36px 0 0;
+        font-size: 2rem;
     }
     .availability__list {
         margin: 16px 0 0;
