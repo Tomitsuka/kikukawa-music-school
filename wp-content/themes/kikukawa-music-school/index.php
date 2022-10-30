@@ -147,7 +147,7 @@
 				</div>
 			</div>
 			<div class="section_more arrow">
-				<a class="more_button" href="<?php echo get_category_link(3); ?>">お知らせ一覧</a>
+				<a class="more_button" href="<?php echo get_category_link(3); ?>/news/">お知らせ一覧</a>
 			</div>
 		</section>
 
@@ -181,7 +181,7 @@
 				</div>
 			</div>
 			<div class="section_more arrow">
-				<a class="more_button" href="<?php echo get_category_link(4); ?>">ブログ一覧</a>
+				<a class="more_button" href="<?php echo get_category_link(4); ?>/blog/">ブログ一覧</a>
 			</div>
 		</section>
 
