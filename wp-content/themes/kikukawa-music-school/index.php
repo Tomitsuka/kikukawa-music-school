@@ -270,16 +270,16 @@
 					<div class="availability__title">津田沼校</div>
 					<div class="availability__list">
 						<div class="availability__item">金曜 14:00 〜 16:00</div>
-						<div class="availability__item">金曜 16:30 〜 19:00</div>
 					</div>
 					<div class="availability__text">
 						現在、火曜・日曜は満枠のため、空きがで次第のご案内となります。
 					</div>
 					<div class="availability__title">茅ヶ崎校</div>
 					<div class="availability__list">
-						<div class="availability__item">水曜 16:00 〜 20:30</div>
-						<div class="availability__item">金曜 15:30 〜 17:00</div>
-						<div class="availability__item">金曜 17:30 〜 20:30</div>
+						<div class="availability__item">水曜 16:00 〜 21:00</div>
+						<div class="availability__item">金曜 16:30 〜 17:00</div>
+						<div class="availability__item">金曜 17:30 〜 18:30</div>
+						<div class="availability__item">金曜 19:00 〜 21:00</div>
 					</div>
 					<div class="availability__text">
 						レッスン時間については
