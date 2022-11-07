@@ -15,7 +15,7 @@
 				$wp_query = new WP_Query();
 				$my_posts = array(
 					'post_type' => 'post',
-					'posts_per_page' => '2', // 表示件数の指定
+					'posts_per_page' => '10', // 表示件数の指定
 					'category_name' => $category_slug, //表示したいカテゴリー名を入力
 					'paged' => $page_num //ページ数
 				);
